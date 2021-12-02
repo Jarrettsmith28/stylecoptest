@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAuI1jnkseorgYcGJZ9xBdQDjishNsR6ElGEnz/rYY2wqutTkVA+GMsTk4ttsMYNcBurn/WGjQuOf6XDFlGYrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarretts\\source\\repos\\StyleCopped\\StyleCopped.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarretts\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
